@@ -1,12 +1,10 @@
 # Hi, I'm Tyler Auer
 
-I've been teaching for over a decade (math, science, tech to elementary, middle and high school) and am changing careers to web development.
+I've been teaching for over a decade (math, science, tech to elementary, middle and high school students) and am changing careers to web development.
 
-I can build full-stack apps and love learning. I've worked with HTML, CSS, Sass, JavaScript, React, Node, Express, Postgres, Python and more!
+I can build full-stack apps and love learning. I've worked with HTML, CSS, Sass, JavaScript, React, Node, Express, Postgres, Python and more! [Hire me](https://www.linkedin.com/in/tyler-auer-903b481a1/)!
 
 ## Projects
-
-As I build my skills I've build a few projects:
 
 - **[Portfolio](https://tylerauer.com/)** ([code](https://github.com/TylerAuer/TylerAuer.github.io))
 - **[Mountains of Code Blog](https://blog.tylerauer.com/)** ([code](https://github.com/TylerAuer/blog))
