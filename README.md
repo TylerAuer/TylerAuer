@@ -8,9 +8,9 @@ I can build full-stack apps and love learning. I'm familiar with React, Express,
 
 - **[Fruit Matrix](https://fruit.tylerauer.com/)** ([code](https://github.com/TylerAuer/fruit))
 - **[Reddit Clone](https://reddit.tylerauer.com/)** ([code](https://github.com/TylerAuer/reddit-clone-2))
-- **[Portfolio](https://tylerauer.com/)** ([code](https://github.com/TylerAuer/TylerAuer.github.io))
 - **[Purple Bookshelf](https://books.tylerauer.com/)** ([code](https://github.com/TylerAuer/bookshelf))
 - **[Mountains of Code Blog](https://blog.tylerauer.com/)** ([code](https://github.com/TylerAuer/blog))
+- **[Portfolio](https://tylerauer.com/)** ([code](https://github.com/TylerAuer/TylerAuer.github.io))
 - **[The Finch (Blog for Students)](http://thefinch.press/)** ([code](https://github.com/TylerAuer/theFinch))
 
 <!--
