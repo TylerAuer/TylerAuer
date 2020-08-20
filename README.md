@@ -1,8 +1,8 @@
 # Hi, I'm Tyler Auer
 
-I'm switching to software development after 12 years in education as a teacher coach and teacher of math, science, technology to elementary, middle, and high school students.
+I'm switching to software development after 12 years in education as a teacher coach and teacher of math, science, and technology to elementary, middle, and high school students.
 
-I can build full-stack apps and love learning. I'm familiar with React, Express, JavaScript, Node, Express, Postgres, Python, HTML, CSS, Sass and more! [Hire me](https://www.linkedin.com/in/tyler-auer-903b481a1/)!
+I can build full-stack apps and love learning. I'm familiar with React, Express, JavaScript, Node, Postgres, Python, HTML, CSS, Sass and more! [Hire me](https://tylerauer.com/)!
 
 ## Projects
 
