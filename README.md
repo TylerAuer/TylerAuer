@@ -1,14 +1,16 @@
 # Hi, I'm Tyler Auer
 
-I've been teaching for over a decade (math, science, tech to elementary, middle and high school students) and am changing careers to web development.
+I'm switching to software development after 12 years in education as a teacher coach and teacher of math, science, technology to elementary, middle, and high school students.
 
-I can build full-stack apps and love learning. I've worked with HTML, CSS, Sass, JavaScript, React, Node, Express, Postgres, Python and more! [Hire me](https://www.linkedin.com/in/tyler-auer-903b481a1/)!
+I can build full-stack apps and love learning. I'm familiar with React, Express, JavaScript, Node, Express, Postgres, Python, HTML, CSS, Sass and more! [Hire me](https://www.linkedin.com/in/tyler-auer-903b481a1/)!
 
 ## Projects
 
+- **[Fruit Matrix](https://fruit.tylerauer.com/)** ([code](https://github.com/TylerAuer/fruit))
+- **[Reddit Clone](https://reddit.tylerauer.com/)** ([code](https://github.com/TylerAuer/reddit-clone-2))
 - **[Portfolio](https://tylerauer.com/)** ([code](https://github.com/TylerAuer/TylerAuer.github.io))
-- **[Mountains of Code Blog](https://blog.tylerauer.com/)** ([code](https://github.com/TylerAuer/blog))
 - **[Purple Bookshelf](https://books.tylerauer.com/)** ([code](https://github.com/TylerAuer/bookshelf))
+- **[Mountains of Code Blog](https://blog.tylerauer.com/)** ([code](https://github.com/TylerAuer/blog))
 - **[The Finch (Blog for Students)](http://thefinch.press/)** ([code](https://github.com/TylerAuer/theFinch))
 
 <!--
