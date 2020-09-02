@@ -1,8 +1,9 @@
-# Hi, I'm Tyler Auer
+<h1 align="center">Hi 👋, I'm Tyler Auer</h1>
+<h3 align="center">Former teacher turned full-stack developer</h3>
 
-I'm switching to software development after 12 years in education as a teacher coach and teacher of math, science, and technology to elementary, middle, and high school students.
+I'm transitioning to web development after 12 years in education as a teacher coach and teacher of math, science, and technology to elementary, middle, and high school students.
 
-I can build full-stack apps and love learning. I'm familiar with React, Express, JavaScript, Node, Postgres, Python, HTML, CSS, Sass and more! [Hire me](https://tylerauer.com/)!
+I can build full-stack apps and love learning. I know **JavaScript** and **React** best but have also built things with Express, Node, Postgres, Python, HTML, CSS, Sass and more! [**Hire me!**](https://tylerauer.com/)!
 
 ## Projects
 
@@ -13,17 +14,46 @@ I can build full-stack apps and love learning. I'm familiar with React, Express,
 - **[Portfolio](https://tylerauer.com/)** ([code](https://github.com/TylerAuer/TylerAuer.github.io))
 - **[The Finch (Blog for Students)](http://thefinch.press/)** ([code](https://github.com/TylerAuer/theFinch))
 
-<!--
-**TylerAuer/TylerAuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## More
 
-Here are some ideas to get you started:
+🔭 I’m currently working on [a site for an NFL game I run with friends](https://github.com/TylerAuer/nfl-wins-losses)
+🌱 I’m currently learning TypeScript
+👨‍💻 All of my projects are available at [https://tylerauer.com/](https://tylerauer.com/)
+📫 How to reach me **Tyler.Auer@gmail.com**
+⚡ I love board games, reading, and backpacking. I have a silver medal for ultimate frisbee
+😄 Pronouns: he, him, his
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+I love learning new technologies. As a self-taught coder, I'm used to pouring over documentation and unblocking myself. As I've worked on different projects, I've used a **lot** if different tools. Here's what I've used.
+
+### Often
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+### Sometimes
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+
+### Occasionally
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
+<img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
