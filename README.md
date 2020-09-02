@@ -3,7 +3,7 @@
 
 I'm transitioning to web development after 12 years in education as a teacher coach and teacher of math, science, and technology to elementary, middle, and high school students.
 
-I can build full-stack apps and love learning. I know **JavaScript** and **React** best but have also built things with Express, Node, Postgres, Python, HTML, CSS, Sass and more! [**Hire me!**](https://tylerauer.com/)!
+I can build full-stack apps and love learning. I know **JavaScript** and **React** best but have also built things with Express, Node, Postgres, Python, HTML, CSS, Sass and more! [**Hire me**](https://tylerauer.com/)!
 
 ## Projects
 
@@ -12,20 +12,10 @@ I can build full-stack apps and love learning. I know **JavaScript** and **React
 - **[Purple Bookshelf](https://books.tylerauer.com/)** ([code](https://github.com/TylerAuer/bookshelf))
 - **[Mountains of Code Blog](https://blog.tylerauer.com/)** ([code](https://github.com/TylerAuer/blog))
 - **[Portfolio](https://tylerauer.com/)** ([code](https://github.com/TylerAuer/TylerAuer.github.io))
-- **[The Finch (Blog for Students)](http://thefinch.press/)** ([code](https://github.com/TylerAuer/theFinch))
-
-## More
-
-🔭 I’m currently working on [a site for an NFL game I run with friends](https://github.com/TylerAuer/nfl-wins-losses)
-🌱 I’m currently learning TypeScript
-👨‍💻 All of my projects are available at [https://tylerauer.com/](https://tylerauer.com/)
-📫 How to reach me **Tyler.Auer@gmail.com**
-⚡ I love board games, reading, and backpacking. I have a silver medal for ultimate frisbee
-😄 Pronouns: he, him, his
 
 ## Technologies
 
-I love learning new technologies. As a self-taught coder, I'm used to pouring over documentation and unblocking myself. As I've worked on different projects, I've used a **lot** if different tools. Here's what I've used.
+I love learning new technologies. As a self-taught coder, I'm used to pouring over documentation and unblocking myself. As I've worked on different projects, I've used a **lot** of different tools:
 
 ### Often
 
