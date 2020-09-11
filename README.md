@@ -15,7 +15,7 @@ I can build full-stack apps and love learning. I know **JavaScript** and **React
 
 ## Technologies
 
-I love learning new technologies. As a self-taught coder, I'm used to pouring over documentation and unblocking myself. As I've worked on different projects, I've used a **lot** of different tools:
+I love learning new technologies. As a self-taught coder, I'm used to poring over documentation and unblocking myself. As I've worked on different projects, I've used a **lot** of different tools:
 
 ### Often
 
