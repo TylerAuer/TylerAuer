@@ -8,6 +8,7 @@ I can build full-stack apps and love learning. I know **JavaScript** and **React
 ## Projects
 
 - **[Fruit Matrix](https://fruit.tylerauer.com/)** ([code](https://github.com/TylerAuer/fruit))
+- **[NFL W/L League](https://nfl.tylerauer.com/)** ([code](https://github.com/TylerAuer/nfl-wins-losses))
 - **[Reddit Clone](https://reddit.tylerauer.com/)** ([code](https://github.com/TylerAuer/reddit-clone-2))
 - **[Purple Bookshelf](https://books.tylerauer.com/)** ([code](https://github.com/TylerAuer/bookshelf))
 - **[Mountains of Code Blog](https://blog.tylerauer.com/)** ([code](https://github.com/TylerAuer/blog))
