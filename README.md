@@ -7,6 +7,7 @@ I can build full-stack apps and love learning. I know **JavaScript** and **React
 
 ## Projects
 
+- **[Bad Calculators (in Beta)](http://badcalculators.com/)** ([code](https://github.com/TylerAuer/bad-calculators))
 - **[Fruit Matrix](https://fruit.tylerauer.com/)** ([code](https://github.com/TylerAuer/fruit))
 - **[Group Us](https://groupus.tylerauer.com/)** ([code](https://github.com/TylerAuer/groups))
 - **[NFL Wins / Losses League](https://nfl.tylerauer.com/)** ([code](https://github.com/TylerAuer/nfl-wins-losses))
